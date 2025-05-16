@@ -12,3 +12,5 @@ URL "amqp://guest:guest@localhost:5672" menunjukkan bahwa publisher dan subscrib
 
 ### Running RabitMQ
 ![RabbitMQ](images/pic1.png)
+![Subscriber](images/pic2.png)
+![Response](images/pic3.png)
